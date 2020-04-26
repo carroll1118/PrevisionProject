@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>注册</title>
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+
+</head>
+<body>
+    <div><img src="images/myself.jpg" style="width: 90px; margin-left:94%;float: left;position: fixed;"></div>
+    <canvas id="canvas"></canvas>
+    <div class="dowebok_regist">
+        <div class="logo">欢迎注册</div>
+        <div class="form-item">
+            <input id="username" type="text" autocomplete="off" placeholder="用户名">
+            <span id="1" style="color: white;">以英文字母开头,4~16个英文、数字或下划线</span>
+        </div>
+        <div class="form-item">
+            <input id="iphone" type="text" autocomplete="off" placeholder="手机号">
+            <span id="6" style="color: white;">请正确输入你的手机号</span>
+        </div>
+        <div class="form-item">
+            <input id="email" type="text" autocomplete="off" placeholder="邮箱">
+            <span id="2" style="color: white;">请正确输入你的邮箱</span>
+        </div>
+        <div class="form-item">
+            <input id="password" type="password" autocomplete="off" placeholder="密码">
+            <span id="3" style="color: white;">英文字母、数字、下画线,长度在6~24个字符</span>
+        </div>
+        <div class="form-item">
+            <input id="repassword" type="password" autocomplete="off" placeholder="确认密码">
+            <span id="4" style="color: white;">请再次输入密码</span>
+        </div>
+        
+        <div class="form-item">
+        	 <button id="reset">重 置</button>
+             <button id="submit">注 册</button>
+         </div>
+        <div class="reg-bar">
+            <a class="reg" href="index1.html">返回首页</a>
+            <a class="forget" href="login.html">返回登录</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/login.js"></script>
+    <script type="text/javascript" src="js/Judge.js"></script>
+    <script type="text/javascript" src="js/First-js.js"></script>
+    <script>
+        $(function () {
+            $('input').val('')
+            $('#submit').on('click', function () {
+                $('.tip').show()
+            })
+        });
+       
+    </script>
+
+<div style="text-align:center;">
+</div>
+
+</body>
+</html>

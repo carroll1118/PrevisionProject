@@ -1,0 +1,6 @@
+server:
+  port: 8081
+limit:
+  minMoney: 1
+  maxMoney: 9999
+  description: 最少要发 ${limit.minMoney} 元

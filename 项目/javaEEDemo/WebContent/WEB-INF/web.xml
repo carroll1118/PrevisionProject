@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+
+    <servlet>
+		<servlet-name>WelcomeServlet</servlet-name>
+		<servlet-class>view.WelcomeServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+    	<servlet-name>WelcomeServlet</servlet-name>
+    	<url-pattern>/Welcome</url-pattern>
+	</servlet-mapping>
+	
+    <servlet>
+		<servlet-name>ErrorServlet</servlet-name>
+		<servlet-class>view.ErrorServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+    	<servlet-name>ErrorServlet</servlet-name>
+    	<url-pattern>/Error</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>LoginCLServlet</servlet-name>
+		<servlet-class>controller.LoginCLServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+    	<servlet-name>LoginCLServlet</servlet-name>
+    	<url-pattern>/LoginCL</url-pattern>
+	</servlet-mapping>
+</web-app>

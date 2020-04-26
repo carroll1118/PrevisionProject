@@ -1,0 +1,446 @@
+!SESSION 2020-01-03 17:02:20.794 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file D:\项目\.metadata\.bak_0.log
+Created Time: 2020-01-03 17:03:20.420
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.420
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.422
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.422
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.423
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.423
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.424
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.425
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.425
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.426
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.426
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.427
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.428
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.428
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.429
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Mystore3 false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.555
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.556
+!MESSAGE Preparing classpath changed notification Mystore2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.556
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.559
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.560
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.560
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.560
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.561
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.561
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.562
+!MESSAGE classpath=36 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.562
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Mystore2 false 36
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.762
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.763
+!MESSAGE Preparing classpath changed notification Mystore
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.763
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.763
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.764
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.764
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.765
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-01-03 17:03:20.765
+!MESSAGE 
+!STACK 0
+java.lang.IllegalArgumentException: 
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:66)
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:50)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.setPath(Classpath.java:93)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.<init>(Classpath.java:77)
+	at org.springframework.tooling.jdt.ls.commons.classpath.Classpath$CPE.binary(Classpath.java:114)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createCpe(ClasspathUtil.java:117)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.resolve(ClasspathUtil.java:84)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:171)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.766
+!MESSAGE classpath=27 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:20.766
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Mystore false 27
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.005
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.006
+!MESSAGE Preparing classpath changed notification Helloword-1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.006
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.016
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.017
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Helloword-1 false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.138
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.139
+!MESSAGE Preparing classpath changed notification Helloword
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.139
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.144
+!MESSAGE classpath=61 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.145
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Helloword false 61
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.262
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.263
+!MESSAGE Preparing classpath changed notification Cookie-Seesion
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.263
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.264
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.264
+!MESSAGE executing callback sts4.classpath.NfvOvxtD Cookie-Seesion false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.281
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.282
+!MESSAGE Preparing classpath changed notification AjxPro
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.282
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.283
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.284
+!MESSAGE executing callback sts4.classpath.NfvOvxtD AjxPro false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:03:21.286
+!MESSAGE executing callback sts4.classpath.NfvOvxtD SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-03 17:03:32.523
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:05:16.131
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NfvOvxtD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:05:16.132
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NfvOvxtD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:05:16.132
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-03 17:05:16.132
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NfvOvxtD => OK

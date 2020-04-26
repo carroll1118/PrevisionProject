@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="toDeskManager" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="toDeskManager"/>
+			<item value="hot_news"/>
+			<item value="nowTime"/>
+			<item value="DefaultJarScanner"/>
+			<item value="hasNext"/>
+			<item value="next"/>
+			<item value="hasnext"/>
+			<item value="hasenext"/>
+			<item value="toString"/>
+			<item value="pagehelper"/>
+			<item value="deleteByPrimaryKey"/>
+			<item value="menuToolBar"/>
+			<item value="layui-nav"/>
+			<item value="layui-side-scroll"/>
+			<item value="navBar"/>
+		</list>
+		<list key="replacehistory">
+			<item value="D:\项目\carrent\src"/>
+			<item value="TTT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="356" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="431" key="DIALOG_HEIGHT"/>
+		<item value="1192" key="DIALOG_X_ORIGIN"/>
+		<item value="557" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jan 02 14:35:37 CST 2020
+org.eclipse.jst.jee.server\:/binary\:D\:\\BaiduNetdiskDownload\\B\u7AD9\u89C6\u9891\u8D44\u6599\\\u96F7\u54E5B\u7AD9\u89C6\u9891\u8D44\u6599\\\u3010SSM+layui\u7684\u6C7D\u8F66\u51FA\u79DF\u9879\u76EE\u3011\u89C6\u9891\u6559\u7A0B\u6E90\u7801\u6587\u4EF6\u3010\u96F7\u54E5\u3011\\06\\0328carrent\\WebRoot\\WEB-INF\\lib\\spring-web-4.3.24.RELEASE.jar=WEB-INF/lib/spring-web-4.3.24.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\shixun\\Practical_training\\WebContent\\WEB-INF\\lib\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar

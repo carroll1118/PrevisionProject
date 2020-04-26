@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:BookManage" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JavaEEDemo" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:day36" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:demo"/>
+  <module moduleId="org.eclipse.jst.jee.server:Mystore3" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:myservlet" serverId="Tomcat v8.0 Server at localhost (2)"/>
+  <module moduleId="org.eclipse.jst.jee.server:javaEEDemo" serverId="Tomcat v8.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:0328carrent" serverId="Tomcat v8.5 Server at localhost (2)"/>
+</modules>

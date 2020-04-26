@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>登录</title>
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+    <script type="text/javascript" src="js/login.js"></script>
+</head>
+<body>
+    <div><img src="images/myself.jpg" style="width: 90px; margin-left:94%;float: left;position: fixed;"></div>
+    <canvas id="canvas"></canvas>
+    <div class="dowebok">
+        
+        <div class="logo">欢迎登录</div>
+        <div class="form-item" style="margin-bottom: 20px;">
+            <input id="username" type="text" autocomplete="off" placeholder="用户名">
+            <p class="tip" style="color: red;padding-left: 50px;">请输入合法的用户名</p>
+        </div>
+        <div class="form-item" style="margin-bottom: 20px;">
+            <input id="password" type="password" autocomplete="off" placeholder="登录密码">
+            <p class="sub"  style="padding-left: 70px;"></p>
+        </div>
+        <div class="form-item" style="margin-bottom: 20px;margin-left: 50px;">
+             <button id="regist">注 册</button>
+             <button id="submit">登 录</button>
+         </div>
+        <div class="reg-bar">
+            <a class="reg" href="index1.html">返回首页</a>
+            <a class="forget" href="javascript:">忘记密码</a>
+        </div>
+
+    </div>
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script>
+        $(function () {
+            $('input').val('')
+            var re = /^[a-zA-z][a-zA-Z0-9_]{3,15}$/;
+            var res = /^[a-zA-Z]\w{5,23}$/;
+            $('#submit').on('click', function () {
+                    var in_str=$('#username').val();
+                    var sub=$('#password').val();
+                    if (!re.test(in_str)) {
+                         $('.tip').show()
+                    }else if (!res.test(sub)) {
+                         $('.sub').html('请输入合法的密码');
+                         $('.sub').css('color','red');
+                    }
+                    else{
+                        $('.tip').html('');
+                        $('.sub').html('验证通过,登录中...');
+                        /*$('.sub').html('验证通过,登录中...');*/
+                        $('.sub').css('color','green');
+                        window.open('index1.html')
+                    }
+            });
+
+            $('#regist').on('click',function(){
+                window.open('regist.html')
+            })
+        })
+    </script>
+
+<div style="text-align:center;">
+</div>
+
+</body>
+</html>

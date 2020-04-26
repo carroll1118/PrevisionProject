@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Dec 27 11:36:23 CST 2019
+org.eclipse.jst.jee.server\:/binary\:D\:\\\u9879\u76EE\\shixun\\java_1123\\WebContent\\WEB-INF\\lib\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\\u90ED\u9AD8\u52E4\\Desktop\\shixun311\\WebContent\\WEB-INF\\lib\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar

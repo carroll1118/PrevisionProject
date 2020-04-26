@@ -1,0 +1,8 @@
+com\qf\Hdfs\HdfsTest.class
+com\qf\Hdfs\HdfsTest2.class
+com\qf\RPC\RPCServer.class
+com\qf\MapReduce\MyWordCount.class
+com\qf\MapReduce\MyWordCount$MyMapper.class
+com\qf\MapReduce\MyWordCount$MyReducer.class
+com\qf\RPC\Hello.class
+com\qf\RPC\RPCClient.class

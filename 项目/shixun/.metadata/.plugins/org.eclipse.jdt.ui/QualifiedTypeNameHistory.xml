@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.sun.javafx.collections.MappingChange.Map"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+    <fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.qd.demo.Service.userInfoService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.qd.demo.mapper.UserInfoMapper"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore.PrivateKeyEntry"/>
+    <fullyQualifiedTypeName name="com.qd.demo.mapper.FansNumUserMapper"/>
+    <fullyQualifiedTypeName name="com.qd.demo.service.FansNumUserService"/>
+    <fullyQualifiedTypeName name="java.lang.UnknownError"/>
+    <fullyQualifiedTypeName name="com.qd.demo.service.UserService"/>
+    <fullyQualifiedTypeName name="com.qd.demo.mapper.UserMapper"/>
+    <fullyQualifiedTypeName name="com.qd.demo.service.UserQuestionService"/>
+    <fullyQualifiedTypeName name="com.qd.demo.service.CollegeStudentsUserInfoService"/>
+    <fullyQualifiedTypeName name="com.qd.demo.Service.FansNumUserService"/>
+    <fullyQualifiedTypeName name="com.qd.demo.Service.UserQuestionService"/>
+    <fullyQualifiedTypeName name="com.qd.demo.Service.CollegeUserInfoService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.portlet.ModelAndView"/>
+    <fullyQualifiedTypeName name="com.qd.demo.Service.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Mapper"/>
+</qualifiedTypeNameHistroy>

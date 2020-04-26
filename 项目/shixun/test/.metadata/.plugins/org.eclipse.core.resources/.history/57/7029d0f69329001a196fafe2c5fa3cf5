@@ -1,0 +1,62 @@
+body{
+	background:#2d3035;
+}
+
+#echarts{
+	background: rgb(255,255,255);
+	width: 100%; 
+	height: 443px;
+	margin-top: 3%;
+}
+
+.head_word{
+	width:100%;
+	font-size:1.3em;
+	height:80px;
+	line-height:200%;
+	font-weight:700;
+	color:#FFF;
+	background:url('../img/Start.jpg') no-repeat;
+}
+.page-contents{
+	height:568px;
+	width:100%;
+	margin: 0 auto; 
+	background:url('../img/Content.jpg') no-repeat;
+	border:1px solid blue;
+}
+.nav_top{
+	display:inline-block;
+	border:1px solid red;
+	float:left;
+}
+.nav_top li{
+	list-style: none; 
+	display: inline-block;
+	margin-right: 60px;
+	text-decoration: none;
+	text-align:center;
+	border:1 px solid gray;
+	border-raduis:50px;
+}
+.sidebar{
+	width:20%; 
+	background:url('../static/img/Left.png') no-repeat;
+}
+.page-header{
+	background:#FFF;
+}
+.list-unstyled li{
+	text-align:center;
+	height:50px;
+	color:#FFF;
+}
+.active{
+	color:red;
+}
+#fan_img{
+	
+	padding-left:8%;
+	padding-top:2%;
+}
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\郭高勤\Desktop\shixun311"/>
+		<item value="D:\shixun\Practical_training"/>
+		<item value="D:\My Documents\Tencent Files\67480337\FileRecv\MobileFile\SAHomeWork"/>
+		<item value="C:\Users\郭高勤\Desktop\软件体系结构-【作业1-1】-面向对象\【作业1-1】-面向对象"/>
+		<item value="D:\BaiduNetdiskDownload\B站视频资料\雷哥B站视频资料\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\06\0328carrent"/>
+		<item value="D:\BaiduNetdiskDownload\B站视频资料\雷哥B站视频资料\【SSM+layui的汽车出租项目】视频教程源码文件【雷哥】\03\0328carrent"/>
+		<item value="D:\项目\mybatis_generator"/>
+		<item value="D:\项目\carrent"/>
+		<item value="D:\项目\Mystore3"/>
+		<item value="C:\Users\郭高勤\Desktop\day36"/>
+		<item value="D:\项目\32-Mystore_admin2"/>
+		<item value="D:\BaiduNetdiskDownload\第16项目：SpringBoot企业级博客系统（带前后端）（视频+源码）\x1hn1k\blog-prototype"/>
+		<item value="C:\Users\郭高勤\Desktop\大学自学\后端\Spring  MVC\SpringMVCProject"/>
+		<item value="C:\Users\郭高勤\Desktop\favorites-web-master"/>
+		<item value="C:\Users\郭高勤\Desktop\javaweb"/>
+		<item value="C:\Users\郭高勤\Desktop\JavaEEDemo"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="581" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="452" key="DIALOG_HEIGHT"/>
+		<item value="670" key="DIALOG_X_ORIGIN"/>
+		<item value="201" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="580" key="DIALOG_X_ORIGIN"/>
+		<item value="261" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+	</section>
+</section>

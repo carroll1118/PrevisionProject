@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: hello-spring-cloud-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: http://192.168.25.144:8080/itoken/itoken-config.git
+          search-paths: respo
+          username: 67480337@qq.com
+          password: guo18735871542
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
